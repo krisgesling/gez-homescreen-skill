@@ -1,0 +1,8 @@
+skillMetadata:
+   sections:
+      - name: Background
+        fields:
+          - name: background_img
+            type: text
+            label: Background image url
+            value:
